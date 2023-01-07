@@ -1,0 +1,8 @@
+končím na úspešnom prepise user_service
+
+pokračovať prepisom paragraph_service a review_service
+
+tu je treba aby fungovali funkcie na vloženie hodnôt a zároveň retrieval informácie z druhej triedy -> 
+viz diagram (who_entered, who_rated, rated_paragraph, #snáď všetko#)
+
+následne ich napojiť do menu
